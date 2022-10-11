@@ -1,9 +1,32 @@
 .navbar-light .navbar-nav .nav-link
 {
-    color: var(--secondary-color);
+    color: black;
 }
 .navbar-light .navbar-nav .nav-link.active-link
 {
-    color: var(--primary-color);
+    color: rgb(0, 62, 128);
     text-decoration: underline;
+}
+
+.nav_bg
+{
+    background-color:#4d55b3;
+    color :black
+}
+ 
+.nav-item{
+    font-size: 20px;
+    color:black;
+}
+
+.navbar-brand{
+    color: black;
+}
+
+.icon{
+    color:crimson;
+}
+
+.card{
+    background-color: rgb(234, 130, 19);
 }

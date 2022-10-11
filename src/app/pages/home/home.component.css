@@ -5,6 +5,15 @@
     background-position: center top;
     background-size: cover;
 }
+
+.card1{
+background-color: rgb(218, 104, 33);
+}
+
+.card2{
+    background-color: rgb(218, 178, 33);
+    }
+
 .content
 {
     top: 30%;
